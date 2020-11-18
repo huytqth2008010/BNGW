@@ -1,1 +1,1 @@
-<?php include("De-thi-BNGW");
+<?php include("De-thi-BNGW.html");
